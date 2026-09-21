@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "Lightweight Class-Balanced Facial Expression Recognition"
+type: software
+authors:
+  - family-names: "Laziri"
+    given-names: "Hind"
+    orcid: "https://orcid.org/0009-0004-6518-6712"
+    email: "laziri.h825@ucd.ac.ma"
+    affiliation: "Faculty of Sciences, Chouaib Doukkali University"
+  - family-names: "Riffi"
+    given-names: "Mohammed Essaid"
+    email: "saidriffi2@gmail.com"
+    affiliation: "Faculty of Sciences, Chouaib Doukkali University"
+year: 2026
+license: MIT
+repository-code: "https://github.com/hindlaziri/lightweight-class-balanced-fer"
+keywords:
+  - facial expression recognition
+  - FER-2013
+  - MobileNetV3
+  - class imbalance
+  - focal loss
+  - label smoothing
